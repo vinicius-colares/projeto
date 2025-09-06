@@ -41,6 +41,7 @@ public class CalculadoraIMC {
             cs.nextLine();
 
         } while (opcao == 's' || opcao == 'S');
+        //teste
 
         System.out.println("\nPrograma encerrado.");
     }
